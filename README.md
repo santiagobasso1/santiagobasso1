@@ -9,13 +9,15 @@
 
 ### Conocimientos:
 <p>
-  <img alt="React" src="https://img.shields.io/badge/-React-45b8d8?style=flat-square&logo=react&logoColor=white" />
-  <img alt="Nodejs" src="https://img.shields.io/badge/-Nodejs-43853d?style=flat-square&logo=Node.js&logoColor=white" />
-  <img alt="Sass" src="https://img.shields.io/badge/-Sass-CD6799?style=flat-square&logo=sass&logoColor=white" />
-  <img alt="PostgreSQL" src="https://img.shields.io/badge/-PostgreSQL-0064a5?style=flat-square&logo=postgresql&logoColor=white%22" />
-  <img alt="Firebase" src="https://img.shields.io/badge/-Firebase-FFA611?style=flat-square&logo=firebase&logoColor=white" />
-  <img alt="C#" src="https://img.shields.io/badge/-C%20Sharp-239120?style=flat-square&logo=csharp&logoColor=white" />
+  <img alt="HTML" src="https://img.shields.io/badge/-HTML-E34F26?style=flat-square&logo=HTML5&logoColor=white" />
+  <img alt="CSS" src="https://img.shields.io/badge/-CSS-1572B6?style=flat-square&logo=CSS3&logoColor=white" />
+  <img alt="SASS" src="https://img.shields.io/badge/-Sass-CD6799?style=flat-square&logo=sass&logoColor=white" />
   <img alt="JavaScript" src="https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=JavaScript&logoColor=white" />
+  <img alt="React" src="https://img.shields.io/badge/-React-45b8d8?style=flat-square&logo=react&logoColor=white" />
+  <img alt="Firebase" src="https://img.shields.io/badge/-Firebase-FFA611?style=flat-square&logo=firebase&logoColor=white" />
+  <img alt="Nodejs" src="https://img.shields.io/badge/-Nodejs-43853d?style=flat-square&logo=Node.js&logoColor=white" />  
+  <img alt="PostgreSQL" src="https://img.shields.io/badge/-PostgreSQL-0064a5?style=flat-square&logo=postgresql&logoColor=white%22" />  
+  <img alt="C#" src="https://img.shields.io/badge/-C%20Sharp-239120?style=flat-square&logo=csharp&logoColor=white" />
   <img alt="LazarusFreePascal" src="https://img.shields.io/badge/-Pascal-000000?style=flat-square&logo=Lazarus&logoColor=white" />
   Entre otros...
 </p>
@@ -46,13 +48,15 @@
 
 ### Knowledge:
 <p>
-  <img alt="React" src="https://img.shields.io/badge/-React-45b8d8?style=flat-square&logo=react&logoColor=white" />
-  <img alt="Nodejs" src="https://img.shields.io/badge/-Nodejs-43853d?style=flat-square&logo=Node.js&logoColor=white" />
-  <img alt="Sass" src="https://img.shields.io/badge/-Sass-CD6799?style=flat-square&logo=sass&logoColor=white" />
-  <img alt="PostgreSQL" src="https://img.shields.io/badge/-PostgreSQL-0064a5?style=flat-square&logo=postgresql&logoColor=white%22" />
-  <img alt="Firebase" src="https://img.shields.io/badge/-Firebase-FFA611?style=flat-square&logo=firebase&logoColor=white" />
-  <img alt="C#" src="https://img.shields.io/badge/-C%20Sharp-239120?style=flat-square&logo=csharp&logoColor=white" />
+  <img alt="HTML" src="https://img.shields.io/badge/-HTML-E34F26?style=flat-square&logo=HTML5&logoColor=white" />
+  <img alt="CSS" src="https://img.shields.io/badge/-CSS-1572B6?style=flat-square&logo=CSS3&logoColor=white" />
+  <img alt="SASS" src="https://img.shields.io/badge/-Sass-CD6799?style=flat-square&logo=sass&logoColor=white" />
   <img alt="JavaScript" src="https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=JavaScript&logoColor=white" />
+  <img alt="React" src="https://img.shields.io/badge/-React-45b8d8?style=flat-square&logo=react&logoColor=white" />
+  <img alt="Firebase" src="https://img.shields.io/badge/-Firebase-FFA611?style=flat-square&logo=firebase&logoColor=white" />
+  <img alt="Nodejs" src="https://img.shields.io/badge/-Nodejs-43853d?style=flat-square&logo=Node.js&logoColor=white" />  
+  <img alt="PostgreSQL" src="https://img.shields.io/badge/-PostgreSQL-0064a5?style=flat-square&logo=postgresql&logoColor=white%22" />  
+  <img alt="C#" src="https://img.shields.io/badge/-C%20Sharp-239120?style=flat-square&logo=csharp&logoColor=white" />
   <img alt="LazarusFreePascal" src="https://img.shields.io/badge/-Pascal-000000?style=flat-square&logo=Lazarus&logoColor=white" />
   Among others...
 </p>
