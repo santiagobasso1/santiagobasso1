@@ -1,3 +1,4 @@
+#### Spanish
 ### 👋🏻 Hola! Soy Santiago, desarrollador y estudiante de ingeniería en sistemas! 👨🏻‍💻
 
 - 👨🏻‍🎓 Estudiante de Ingeniería En sistemas de información
@@ -30,6 +31,10 @@
 [3]: https://www.instagram.com/polbasso_/
 
 
+
+
+
+#### English
 ### 👋🏻 Hi! I'm Santiago, developer and information systems engineering student! 👨🏻‍💻
 
 - 👨🏻‍🎓 Information systems engineering student
