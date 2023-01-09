@@ -13,7 +13,7 @@
 
 [1]: https://wa.me/+59898107657
 [2]: https://www.linkedin.com/in/santiago-basso-98208a235/
-[3]: https://www.facebook.com/your_contact_info
+[3]: https://www.instagram.com/polbasso_/
 
 ### Conocimientos:
 <p>
