@@ -8,11 +8,11 @@
 
 ### Contacto:
 [![Whatsapp](https://img.shields.io/badge/-Whatsapp-43853d?style=flat-square&logo=Whatsapp&logoColor=white)][1]
-[![facebook](https://cloud.githubusercontent.com/assets/17016297/18839836/0a06deb4-83d2-11e6-8078-1d0974af0f63.png)][2]
-[![linkedin](https://cloud.githubusercontent.com/assets/17016297/18839848/0fc7e74e-83d2-11e6-8c6a-277fc9d6e067.png)][3]
+[![Linkedin](https://img.shields.io/badge/-Linkedin-0A66C2?style=flat-square&logo=Linkedin&logoColor=white)][2]
+[![Instagram](https://img.shields.io/badge/-Intagram-E4405F?style=flat-square&logo=Instagram&logoColor=white)][3]
 
 [1]: https://wa.me/+59898107657
-[2]: https://www.linkedin.com/in/your_contact_info
+[2]: https://www.linkedin.com/in/santiago-basso-98208a235/
 [3]: https://www.facebook.com/your_contact_info
 
 ### Conocimientos:
