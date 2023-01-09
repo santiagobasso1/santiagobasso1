@@ -41,7 +41,7 @@
 - 🤯 Looking for a job that takes advantage of my skills
 - 📚 Learning something new every day
 - 🏆 Argentinian permanent resident ⚽️ 
-- 🧉 Born in uruguay
+- 🧉 Born in Uruguay
 
 
 ### Knowledge:
