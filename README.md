@@ -15,12 +15,9 @@
   <img alt="Sass" src="https://img.shields.io/badge/-Sass-CD6799?style=flat-square&logo=sass&logoColor=white" />
   <img alt="PostgreSQL" src="https://img.shields.io/badge/-PostgreSQL-0064a5?style=flat-square&logo=postgresql&logoColor=white%22" />
   <img alt="Firebase" src="https://img.shields.io/badge/-Firebase-FFA611?style=flat-square&logo=firebase&logoColor=white" />
-  <img alt="C#" src="https://img.shields.io/badge/-C%23-violet" />
+  <img alt="C#" src="https://img.shields.io/badge/-C%20Sharp-239120?style=flat-square&logo=csharp&logoColor=white" />
   <img alt="JavaScript" src="https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=JavaScript&logoColor=white" />
-
-  
+  <img alt="LazarusFreePascal" src="https://img.shields.io/badge/-Pascal-000000?style=flat-square&logo=Lazarus&logoColor=white" />
+  Entre otros...
 </p>
-[![My Skills](https://skillicons.dev/icons?i=js,html,css,wasm)](https://skillicons.dev)
 
-
-<h4> Actualmente estudio: </h4>
