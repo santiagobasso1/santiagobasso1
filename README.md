@@ -6,15 +6,6 @@
 - 🇦🇷 Residente permanente Argentino
 - 🇺🇾 Uruguayo de nacimiento
 
-### Contacto:
-[![Whatsapp](https://img.shields.io/badge/-Whatsapp-43853d?style=flat-square&logo=Whatsapp&logoColor=white)][1]
-[![Linkedin](https://img.shields.io/badge/-Linkedin-0A66C2?style=flat-square&logo=Linkedin&logoColor=white)][2]
-[![Instagram](https://img.shields.io/badge/-Intagram-E4405F?style=flat-square&logo=Instagram&logoColor=white)][3]
-
-[1]: https://wa.me/+59898107657
-[2]: https://www.linkedin.com/in/santiago-basso-98208a235/
-[3]: https://www.instagram.com/polbasso_/
-
 ### Conocimientos:
 <p>
   <img alt="React" src="https://img.shields.io/badge/-React-45b8d8?style=flat-square&logo=react&logoColor=white" />
@@ -27,4 +18,15 @@
   <img alt="LazarusFreePascal" src="https://img.shields.io/badge/-Pascal-000000?style=flat-square&logo=Lazarus&logoColor=white" />
   Entre otros...
 </p>
+
+
+### Contacto:
+[![Whatsapp](https://img.shields.io/badge/-Whatsapp-43853d?style=flat-square&logo=Whatsapp&logoColor=white)][1]
+[![Linkedin](https://img.shields.io/badge/-Linkedin-0A66C2?style=flat-square&logo=Linkedin&logoColor=white)][2]
+[![Instagram](https://img.shields.io/badge/-Intagram-E4405F?style=flat-square&logo=Instagram&logoColor=white)][3]
+
+[1]: https://wa.me/+59898107657
+[2]: https://www.linkedin.com/in/santiago-basso-98208a235/
+[3]: https://www.instagram.com/polbasso_/
+
 
