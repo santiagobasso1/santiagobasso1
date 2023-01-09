@@ -7,7 +7,8 @@
 - 🇺🇾 Uruguayo de nacimiento
 
 ### Contacto:
-[<img align="left" alt="santiagoBassoWhatsapp" width="22px" src="https://icons8.com/icon/62855/whatsapp"/>][website]
+
+### Conocimientos:
 <p>
   <img alt="React" src="https://img.shields.io/badge/-React-45b8d8?style=flat-square&logo=react&logoColor=white" />
   <img alt="Nodejs" src="https://img.shields.io/badge/-Nodejs-43853d?style=flat-square&logo=Node.js&logoColor=white" />
@@ -16,6 +17,7 @@
   <img alt="Firebase" src="https://img.shields.io/badge/-Firebase-FFA611?style=flat-square&logo=firebase&logoColor=white" />
   <img alt="C#" src="https://img.shields.io/badge/-C%23-violet" />
 </p>
+[![My Skills](https://skillicons.dev/icons?i=js,html,css,wasm)](https://skillicons.dev)
 
 
 <h4> Actualmente estudio: </h4>
