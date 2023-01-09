@@ -4,8 +4,8 @@
 - 👨🏻‍🎓 Estudiante de Ingeniería En sistemas de información
 - 🤯 En busca de un trabajo que explote mis habilidades
 - 📚 Aprendiendo cada dia algo nuevo
-- 🧉 Residente permanente Argentino
-- 🇺🇾 Uruguayo de nacimiento
+- 🏆 Residente permanente Argentino ⚽️ 
+- 🧉 Uruguayo de nacimiento
 
 ### Conocimientos:
 <p>
@@ -40,8 +40,8 @@
 - 👨🏻‍🎓 Information systems engineering student
 - 🤯 Looking for a job that takes advantage of my skills
 - 📚 Learning something new every day
-- 🧉 Argentine permanent resident
-- 🇺🇾 Born in uruguay
+- 🏆 Argentinian permanent resident ⚽️ 
+- 🧉 Born in uruguay
 
 
 ### Knowledge:
