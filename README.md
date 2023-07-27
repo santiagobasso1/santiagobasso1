@@ -1,5 +1,5 @@
 #### Spanish
-### 👋🏻 Hola! Soy Santiago, desarrollador y estudiante de ingeniería en sistemas! 👨🏻‍💻
+### 👋🏻 Hola! Soy Santiago, desarrollador full-stack y estudiante de ingeniería en sistemas! 👨🏻‍💻
 
 - 👨🏻‍🎓 Estudiante de Ingeniería En sistemas de información
 - 👨‍💻 Full Stack Developer (HTML, CSS, JS, React.js, Node.js)
@@ -40,7 +40,7 @@
 
 
 #### English
-### 👋🏻 Hi! I'm Santiago, developer and information systems engineering student! 👨🏻‍💻
+### 👋🏻 Hi! I'm Santiago, full-stack developer and information systems engineering student! 👨🏻‍💻
 
 - 👨🏻‍🎓 Information systems engineering student
 - 👨‍💻 Full Stack Developer (HTML, CSS, JS, React.js, Node.js)
