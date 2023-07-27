@@ -2,6 +2,7 @@
 ### 👋🏻 Hola! Soy Santiago, desarrollador y estudiante de ingeniería en sistemas! 👨🏻‍💻
 
 - 👨🏻‍🎓 Estudiante de Ingeniería En sistemas de información
+- 👨‍💻 Full Stack Developer (HTML, CSS, JS, React.js, Node.js)
 - 🤯 En busca de un trabajo que explote mis habilidades
 - 📚 Aprendiendo cada dia algo nuevo
 - 🏆 Residente permanente Argentino ⚽️ 
@@ -40,6 +41,7 @@
 ### 👋🏻 Hi! I'm Santiago, developer and information systems engineering student! 👨🏻‍💻
 
 - 👨🏻‍🎓 Information systems engineering student
+- 👨‍💻 Full Stack Developer (HTML, CSS, JS, React.js, Node.js)
 - 🤯 Looking for a job that takes advantage of my skills
 - 📚 Learning something new every day
 - 🏆 Argentinian permanent resident ⚽️ 
