@@ -3,7 +3,6 @@
 
 - 👨🏻‍🎓 Information systems engineering student
 - 👨‍💻 Full Stack Developer (HTML, CSS, JS, React.js, Node.js)
-- 🤯 Looking for a job that takes advantage of my skills
 - 📚 Learning something new every day
 - 🏆 Argentinian permanent resident ⚽️ 
 - 🧉 Born in Uruguay
