@@ -40,7 +40,6 @@
 
 - 👨🏻‍🎓 Estudiante de Ingeniería En sistemas de información
 - 👨‍💻 Full Stack Developer (HTML, CSS, JS, React.js, Node.js)
-- 🤯 En busca de un trabajo que explote mis habilidades
 - 📚 Aprendiendo cada dia algo nuevo
 - 🏆 Residente permanente Argentino ⚽️ 
 - 🧉 Uruguayo de nacimiento
