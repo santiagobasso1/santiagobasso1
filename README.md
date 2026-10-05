@@ -77,7 +77,7 @@ Uruguayan-born, based in Argentina 🇦🇷🇺🇾
 
 ---
 
-### 📊 GitHub Stats
+### 📊 GitHub Stats (Personal projects only; business account activity is not included.)
 
 <div align="center">
 
